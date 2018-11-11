@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 279805894
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e0c36569adc10232738c135da063b00c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5e91fbc5ecbd91297cd59542396acba3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 89
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/data/b.jpg
+- Assets/data/fsb.png
+- Assets/data/a.png
+Dependencies: []
